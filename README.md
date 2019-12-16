@@ -1,3 +1,3 @@
 # wireless
 
-This module is a copy from https://github.com/joshvillbrandt/wireless, with disconnect() function and dynamic ip allocation added.
+This module is a copy from https://github.com/joshvillbrandt/wireless, with disconnect() function and dynamic ip allocation added for only wpa-supplicant driver.
